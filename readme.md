@@ -30,7 +30,7 @@ make run
     * [Terrain Generation](#terrain-generation)
     * [A*](#a)
     * [Mobs AI](#mobs-ai)
-    * [Fighting System](#fighting system)
+    * [Fighting System](#fighting-system)
     * [Utils](#utils)
         * [List](#list)
         * [Stack](#stack)
